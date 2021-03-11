@@ -1,3 +1,3 @@
 layout: page
 title: "Noise"
-permalink: /Cgirdlestone.github.io/Noise/
+permalink: https://cgirdlestone.github.io/Noise
